@@ -12,6 +12,10 @@ I'm passionate about CNA/cybersecurity and love tackling complex challenges thro
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+- ## 🔐 Governance, Risk, and Compliance
+
+- **[NIST Framework Implementation (NIST CSF)](https://github.com/tbatchellor/GRCMasteryNISTCSFImplementation)**
+
 <hr/>
 
 ## 🤳 Connect With Me
