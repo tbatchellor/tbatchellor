@@ -1,0 +1,35 @@
+ <#
+.SYNOPSIS
+    # Set Account Lockout Duration to 15 minutes (WN10-AC-000005).
+
+.NOTES
+    Author          : Tom Batchellor
+    LinkedIn        : linkedin.com/in/batchellorTom/
+    GitHub          : github.com/tBatchellor/STIGS/
+    Date Created    : 2025-07-27
+    Last Modified   : 2025-07-27
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN10-00-00135
+
+.TESTED ON
+    Date(s) Tested  : 2025-07-27
+    Tested By       : Tom Batchellor
+    Systems Tested  : 
+    PowerShell Ver. : 
+
+.USAGE
+
+    Example syntax:
+    PS C:\> .\__Remediation_STIG-ID-WN10-AC-000005.ps1 
+#>
+
+# Set Account Lockout Duration to 15 minutes (WN10-AC-000005)
+
+Write-Output "Setting Account Lockout Duration to 15 minutes..."
+
+# Use net accounts to set lockout duration (in minutes)
+net accounts /lockoutduration:15
+
+Write-Output "Account Lockout Duration has been successfully set to 15 minutes." 
