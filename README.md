@@ -10,7 +10,7 @@ I'm passionate about CNA/cybersecurity and love tackling complex challenges thro
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tbatchellor/threat-hunting-scenario-tor)**
 
 - ## 🔐 Governance, Risk, and Compliance
 
