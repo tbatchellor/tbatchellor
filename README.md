@@ -11,7 +11,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tbatchellor/threat-hunting-scenario-tor)**
-- - **[Threat Hunting Scenario (Linux, Exfiltration and Escalation Of Privilege Lab)](https://github.com/tbatchellor/threat-hunting-scenario-Linux)**
 
 - ## 🔐 Governance, Risk, and Compliance
 
